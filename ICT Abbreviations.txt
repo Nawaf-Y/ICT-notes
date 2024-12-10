@@ -1,0 +1,41 @@
+# ICT Abbreviations
+
+AMD - Accumulation, Manipulation, Distribution
+BISI - Buyside Imbalance Sell side Inefficiency
+BSL - Buyside Liquidity
+BE - Break Even (Moving your stop to the place where you entered the trade)
+BOS - Break of Structure
+CE - Consequent Encroachment
+FVG - Fair Value Gap
+HTF - Higher Time Frame
+IOF - Institutional Order Flow
+IPDA - Interbank Price Delivery Algorithm
+IPA - Imbalance price action
+ITH - Intermediate Term High
+ITL - Intermediate Term Low
+LO - London Open
+LOKZ - London Kill Zone
+LTF - Lower Time Frame
+LTH - Long Term High
+LTL - Long Term Low
+MNO - Midnight Open (00:00 EST)
+MS - Market Structure
+MSB - Market Structure Break
+MSS - Market Structure Shift
+MT - Mean Threshold
+NYKZ - New York Kill Zone
+NYO - New York Open
+OB - Order Block (+OB = Bullish Order block / -OB = Bearish Order block )
+OTE - Optimal Trade Entry
+PA - Price Action
+PDH - Previous Daily High
+PDL - Previous Daily Low
+RR - Risk to reward
+S/R - Support & Resistance
+SIBI - Sellside Imbalance Buyside Inefficency
+SL - Stop Loss
+SSL - Sellside Liquidity
+STH - Short Term High
+STL - Short Term Low
+TA - Technical Analysis
+TP - Take Profit
